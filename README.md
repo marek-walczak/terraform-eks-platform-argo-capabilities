@@ -1,1 +1,1 @@
-# terraform-eks-platform-argo-apabilities
+# terraform-eks-platform-argo-capabilities
